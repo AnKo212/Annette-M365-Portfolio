@@ -2,6 +2,8 @@
 ![Focus](https://img.shields.io/badge/Focus-M365%20%7C%20Power%20Platform%20%7C%20Change-blue)
 ![Platform](https://img.shields.io/badge/Platform-Microsoft%20365-0078D4)
 
+Willkommen in meinem Portfolio! Dieses Repository dokumentiert meine praktischen Projekte, Vorlagen und Lösungskonzepte rund um **Microsoft 365, Automatisierung und moderne Zusammenarbeit**.
+
 **Von der Assistentin der Geschäftsführung zur Microsoft 365 Collaboration Consultant**
 
 Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der Geschäftsführung**, wo ich mich auf **Prozessoptimierung, Stakeholder-Management und Change-Begleitung** spezialisiert habe. Aktuell bilde ich mich zur **Microsoft 365 Collaboration Consultant** weiter, um Unternehmen bei der digitalen Zusammenarbeit zu unterstützen.
