@@ -1,6 +1,3 @@
-# Annette-M365-Portfolio
-Mein Portfolio: Von der Assistentin zur Microsoft 365 Collaboration Consultant"
-# Annette's M365 Collaboration Portfolio 🚀
 
 **Von der Assistentin der Geschäftsführung zur Microsoft 365 Collaboration Consultant**
 
@@ -9,6 +6,7 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 ---
 
 ## 🎯 Meine Ziele
+
 - **Technische Skills:** Microsoft Teams, SharePoint, Power Platform (Power Automate, Power Apps)
 - **Methodische Skills:** Change Management, Adoption-Strategien, Workshop-Moderation
 - **Zertifizierungen:** Aktuell in Arbeit (Microsoft Learn-Pfade)
@@ -16,6 +14,7 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 ---
 
 ## 📂 Projekte & Erfahrungen
+
 ### ✅ **Bisherige Projekte (Auszug)**
    Projekt | Rolle | Tools/Technologien | Ergebnis |
  |---------|-------|---------------------|----------|
@@ -24,7 +23,9 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
  | **SharePoint-Seiten (Kardex)** | Page Creator | SharePoint Online | Benutzerfreundliche Intranet-Seiten |
 
 ### 🚀 **Aktuelle Lernprojekte**
-- [ ] Microsoft Teams Administration (MS-700)
+- [ ] Microsoft Teams Administration (MS-900)
+- [ ] Microsoft Power Platform (PL-900)
+- [ ] Microsoft Azure AI Fundamentals (AI-900)
 - [ ] SharePoint Modern Experience
 - [ ] Power Automate Flows für Business-Prozesse
 
