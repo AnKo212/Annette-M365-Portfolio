@@ -27,8 +27,7 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 - [ ] Microsoft Teams Administration (MS-900)
 - [ ] Microsoft Power Platform (PL-900)
 - [ ] Microsoft Azure AI Fundamentals (AI-900)
-- [ ] SharePoint Modern Experience
-- [ ] Power Automate Flows für Business-Prozesse
+
 
 ---
 
