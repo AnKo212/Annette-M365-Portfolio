@@ -1,3 +1,6 @@
+![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
+![Focus](https://img.shields.io/badge/Focus-M365%20%7C%20Power%20Platform%20%7C%20Change-blue)
+![Platform](https://img.shields.io/badge/Platform-Microsoft%20365-0078D4)
 
 **Von der Assistentin der Geschäftsführung zur Microsoft 365 Collaboration Consultant**
 
