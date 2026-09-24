@@ -34,7 +34,7 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 
 ## 🔗 Kontakt
 - [LinkedIn](www.linkedin.com/in/annette-kornmann/)
-- [E-Mail]annette.kornmann@web.de
+- annette.kornmann@web.de
 
 
 ---
