@@ -19,7 +19,7 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
    Projekt | Rolle | Tools/Technologien | Ergebnis |
  |---------|-------|---------------------|----------|
  | **Urlaubsautomatisierung (MDBM)** | Konzeption & Umsetzung | SharePoint, Power Automate | Automatisierte Urlaubsanträge mit Benachrichtigungen |
- | **Agile Transformation (Kardex)** | Organisation & Moderation | Microsoft Teams, Miro | Erfolgreiche Anwendung agiler Methoden |
+ | **Agile Transformation (Kardex)** | Organisation & Moderation | Scrum Framework | Management Team erfolgreich zur agilen Arbeit gebracht |
  | **SharePoint-Seiten Owner (Kardex)** | Page Creator | SharePoint als Dokumentenverwaltungs- & Kommunikationstool | Benutzerfreundliche Intranet-Seiten |
 
 
