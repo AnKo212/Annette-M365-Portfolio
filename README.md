@@ -5,9 +5,9 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 
 ---
 
-## 🎯 Meine Ziele
+## 🎯 Meine Skills
 
-- **Technische Skills:** Microsoft Teams, SharePoint, Power Platform (Power Automate, Power Apps)
+- **Technische Skills:** Microsoft Teams, SharePoint, Grundlagen in VoIP Migration
 - **Methodische Skills:** Change Management, Adoption-Strategien, Workshop-Moderation
 - **Zertifizierungen:** Aktuell in Arbeit (Microsoft Learn-Pfade)
 
@@ -19,8 +19,9 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
    Projekt | Rolle | Tools/Technologien | Ergebnis |
  |---------|-------|---------------------|----------|
  | **Urlaubsautomatisierung (MDBM)** | Konzeption & Umsetzung | SharePoint, Power Automate | Automatisierte Urlaubsanträge mit Benachrichtigungen |
- | **Workshop für 150 Personen** | Organisation & Moderation | Microsoft Teams, Miro | Erfolgreiche Durchführung mit agilen Methoden |
- | **SharePoint-Seiten (Kardex)** | Page Creator | SharePoint Online | Benutzerfreundliche Intranet-Seiten |
+ | **Agile Transformation (Kardex)** | Organisation & Moderation | Microsoft Teams, Miro | Erfolgreiche Anwendung agiler Methoden |
+ | **SharePoint-Seiten Owner (Kardex)** | Page Creator | SharePoint als Dokumentenverwaltungs- & Kommunikationstool | Benutzerfreundliche Intranet-Seiten |
+
 
 ### 🚀 **Aktuelle Lernprojekte**
 - [ ] Microsoft Teams Administration (MS-900)
