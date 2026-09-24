@@ -33,8 +33,9 @@ Hallo! Ich bin Annette und habe jahrzehntelange Erfahrung als **Assistentin der 
 ---
 
 ## 🔗 Kontakt
-- [LinkedIn](https://www.linkedin.com/in/dein-profil/) (ergänze später)
-- [E-Mail](mailto:deine@email.de) (ergänze später)
+- [LinkedIn](www.linkedin.com/in/annette-kornmann/)
+- [E-Mail]annette.kornmann@web.de
+
 
 ---
 *"Digitale Zusammenarbeit einfach machen – für Menschen, nicht für Maschinen."*
